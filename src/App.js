@@ -1,6 +1,6 @@
 import "./App.css";
-import SearchBar from "./Components/SearchBar";
 import Data from "./Data.json";
+import SearchBar from "./Components/SearchBar";
 
 function App() {
 	return (
